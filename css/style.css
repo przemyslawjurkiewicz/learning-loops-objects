@@ -1,0 +1,43 @@
+/*===GLOBAL===*/
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: "Lato";
+  background: #fafcfe;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.box {
+  background: #beffcc;
+  border: 1px solid #4b4b4b;
+  opacity: 0.7;
+  color: #1c36aa;
+  padding: 10px;
+}
+
+.highlighted {
+  background: #4b4b4b;
+}
+
+header {
+  color: #072b2e;
+}
+
+.special-header {
+  background: #ff6868;
+}
+
+.important {
+  opacity: 1;
+}
+
+/*# sourceMappingURL=style.css.map */
